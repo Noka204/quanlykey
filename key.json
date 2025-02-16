@@ -12,6 +12,14 @@
       "activetime": "",
       "endtime": "",
       "devices_id": ""
+    },
+    {
+      "key": "a",
+      "pass": "1",
+      "time": 7,
+      "activetime": "",
+      "endtime": "",
+      "devices_id": ""
     }
   ]
 }
