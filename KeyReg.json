@@ -1,8 +1,6 @@
-{
-  "keys": [
-    {
-      "key": "mhan",
-      "devicesId": ""
-    }
-  ]
-}
+[
+  {
+    "key": "mhan",
+    "devicesId": ""
+  }
+]
