@@ -3,10 +3,10 @@
     {
       "key": "mhan",
       "pass": "0911",
-      "time": 1,
-      "activetime": "2025-02-16 17:43:15",
-      "endtime": "2025-02-17 17:43:15",
-      "devices_id": "BFEBFBFF000806D1-0025_38D4_2184_0F18.-70A8D3CE1E8"
+      "time": 10000,
+      "activetime": "",
+      "endtime": "",
+      "devices_id": ""
     },
     {
       "key": "noka",
