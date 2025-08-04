@@ -1,28 +1,5 @@
 {
   "keys": [
-    {
-      "pass": "b",
-      "gia": "fix150",
-      "ngay": "2025-08-04 21:29:13",
-      "devices_id": "BFEBFBFF000806D1_0250DF73E0A3"
-    },
-    {
-      "pass": "a",
-      "gia": "",
-      "ngay": "2025-08-04 21:34:26",
-      "devices_id": ""
-    },
-    {
-      "pass": "",
-      "gia": "reg150",
-      "ngay": "2025-08-04 08:28:10",
-      "devices_id": "0F8BFBFF000406F0_026AF941A422"
-    },
-    {
-      "pass": "epic",
-      "gia": "reg150",
-      "ngay": "2025-08-04 21:53:57",
-      "devices_id": "BFEBFBFF000406E3_708BCD099BD6"
-    }
   ]
+
 }
