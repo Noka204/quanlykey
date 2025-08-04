@@ -4,6 +4,11 @@
       "gia": "150",
       "ngay": "2025-08-04 20:00:59",
       "devices_id": "NEW-DEVICE-ID-XYZ"
+    },
+    {
+      "gia": "150",
+      "ngay": "2025-08-04 20:04:57",
+      "devices_id": "GetDeviceId"
     }
   ]
 }
