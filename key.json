@@ -8,9 +8,9 @@
     },
     {
       "pass": "noka",
-      "gia": "fix150",
-      "ngay": "2025-08-05 12:34:51",
-      "devices_id": "BFEBFBFF000806D1_0250DF73E0A3"
+      "gia": "",
+      "ngay": "",
+      "devices_id": ""
     },
     {
       "pass": "Epicpc",
@@ -139,4 +139,5 @@
       "devices_id": "BFEBFBFF000806C1_EC63D75E024F"
     }
   ]
+
 }
