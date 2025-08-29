@@ -6,7 +6,9 @@
     ]
   },
   "likes": {
-    "count": 0,
-    "ips": []
+    "count": 1,
+    "ips": [
+      "d2d25c63d7885759ff9d630e3209e7ffe7bd0d1f60e8722c73607c0f60e03b86"
+    ]
   }
 }
