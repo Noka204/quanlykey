@@ -384,7 +384,7 @@
     ]
   },
   "likes": {
-    "count": 33,
+    "count": 32,
     "ips": [
       "bdc31cce96cb838fdebbe4c951204d576cc3b3f44a9021e2f48e2eab914ee348",
       "cde57c5106e88469c413a9bccfb5fa9be956e9f38ea2cc9a688ebe25cceeed86",
@@ -417,8 +417,7 @@
       "1a54f5afecf761ead6783bd950e061ed083b6e22c98c293f2b78c6f3d909192e",
       "3ddcc9a2436cd5da186fe77067ccccc1d7214e9fca30af3c78dba97d162eef80",
       "ab0dacf4176539adcebf0d95c0051006a5b1790cfd9649565913155daa8b8e22",
-      "47427100d846a5a48fe3f4ae6a2fe9622748a84f0bb623de4ed72319f8c360d4",
-      "d2d25c63d7885759ff9d630e3209e7ffe7bd0d1f60e8722c73607c0f60e03b86"
+      "47427100d846a5a48fe3f4ae6a2fe9622748a84f0bb623de4ed72319f8c360d4"
     ]
   }
 }
