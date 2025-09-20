@@ -39,6 +39,13 @@
           "status": "active",
           "expires_at": null,
           "price": "150"
+        },
+        {
+          "id": "reg120",
+          "purchased_at": "2025-09-20T17:33:17.9549300Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
         }
       ]
     },
