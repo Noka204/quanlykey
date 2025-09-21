@@ -372,20 +372,6 @@
       ]
     },
     {
-      "pass": "",
-      "ngay": "2025-08-29 08:29:13",
-      "devices_id": "0F8BFBFF000406F0_02C85F0F6633",
-      "products": [
-        {
-          "id": "reg200",
-          "purchased_at": "2025-08-29 08:29:13",
-          "status": "active",
-          "expires_at": null,
-          "price": "200"
-        }
-      ]
-    },
-    {
       "pass": "tduong",
       "ngay": "2025-09-01 18:08:52",
       "devices_id": "BFEBFBFF000906A4_3EE9F7CE63AA",
@@ -596,4 +582,5 @@
       ]
     }
   ]
+
 }
