@@ -130,16 +130,6 @@
       "created_at": "2025-09-21T12:59:10.5845789Z",
       "expires_at": null,
       "note": ""
-    },
-    {
-      "key": "Ducanhcudai10m",
-      "gia": "reg200",
-      "ngay": "2025-09-21 14:48:23",
-      "devices_id": "",
-      "type": "lifetime",
-      "created_at": "2025-09-21T14:48:23.4838968Z",
-      "expires_at": null,
-      "note": ""
     }
   ]
 }
