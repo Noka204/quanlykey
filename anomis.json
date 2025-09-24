@@ -1,1 +1,15 @@
-
+{
+  "version": 1,
+  "keys": [
+    {
+      "key": "noka",
+      "gia": "clumsy",
+      "ngay": "2025-09-24 11:59:43",
+      "devices_id": "BFEBFBFF000806D1_5811223D054E",
+      "type": "lifetime",
+      "created_at": "2025-09-24T11:59:43.1842328Z",
+      "expires_at": null,
+      "note": ""
+    }
+  ]
+}
