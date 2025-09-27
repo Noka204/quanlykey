@@ -122,7 +122,7 @@
     {
       "pass": "husi",
       "ngay": "2025-08-08 12:02:14",
-      "devices_id": "",
+      "devices_id": "BFEBFBFF000806D1_CC4740C780B5",
       "products": [
         {
           "id": "fix150",
@@ -131,7 +131,8 @@
           "status": "active",
           "expires_at": null
         }
-      ]
+      ],
+      "gia": "reg200"
     },
     {
       "pass": "vp",
