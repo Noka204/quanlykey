@@ -634,7 +634,15 @@
       "pass": "tanh",
       "ngay": "2025-10-04 20:24:55",
       "devices_id": "178BFBFF00860F01_A85E45D4386B",
-      "products": []
+      "products": [
+        {
+          "id": "reg150",
+          "purchased_at": "2025-10-04T13:25:23.6183552Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "150"
+        }
+      ]
     }
   ]
 }
