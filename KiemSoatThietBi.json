@@ -1,1 +1,14 @@
-
+{
+  "records": [
+    {
+      "key": "noka",
+      "target_file": "mangcali.json",
+      "device_id": "1219aaba53d41791dd3851e012f0198cd71a5244f7fbe0260e1df05043c58efa",
+      "machine": "DESKTOP-M3JTK23",
+      "cpu": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "reset_at": "2025-10-04T11:37:46.2880571Z",
+      "action": "reset_bind"
+    }
+  ]
+}
