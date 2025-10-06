@@ -648,7 +648,15 @@
       "pass": "tcong",
       "ngay": "2025-10-06 19:23:47",
       "devices_id": "BFEBFBFF000306C3_24F5AAAD1C0A",
-      "products": []
+      "products": [
+        {
+          "id": "reg150",
+          "purchased_at": "2025-10-06T12:24:02.1534772Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "150"
+        }
+      ]
     }
   ]
 }
