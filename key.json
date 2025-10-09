@@ -683,7 +683,15 @@
       "pass": "dangkhoa",
       "ngay": "2025-10-08 12:42:18",
       "devices_id": "BFEBFBFF000B06A2_58020518ABF2",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2025-10-09T15:49:39.8729769Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     },
     {
       "pass": "annn",
