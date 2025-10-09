@@ -669,7 +669,15 @@
       "pass": "NgTai",
       "ngay": "2025-10-07 22:06:23",
       "devices_id": "BFEBFBFF000B06A2_FC6D77F3E454",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2025-10-09T15:21:15.7617582Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     },
     {
       "pass": "dangkhoa",
