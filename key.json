@@ -710,7 +710,15 @@
       "pass": "NCuong",
       "ngay": "2025-10-11 18:39:42",
       "devices_id": "BFEBFBFF000806EA_EC5C68953619",
-      "products": [],
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2025-10-11T11:46:20.2795979Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ],
       "gia": "fix150"
     }
   ]
