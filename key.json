@@ -725,7 +725,15 @@
       "pass": "dtung",
       "ngay": "2025-10-11 19:55:17",
       "devices_id": "BFEBFBFF000406F1_74EE2AEF33F6",
-      "products": []
+      "products": [
+        {
+          "id": "reg200",
+          "purchased_at": "2025-10-11T12:52:30.5987304Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "200"
+        }
+      ]
     }
   ]
 }
