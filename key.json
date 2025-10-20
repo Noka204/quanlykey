@@ -18,7 +18,15 @@
       "pass": "noka",
       "ngay": "2025-10-20 18:49:41",
       "devices_id": "BFEBFBFF000806D1_5811223D054E",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2025-10-20T11:50:01.5800667Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     },
     {
       "pass": "Epicpc",
