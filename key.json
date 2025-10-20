@@ -16,38 +16,9 @@
     },
     {
       "pass": "noka",
-      "ngay": "",
-      "devices_id": "BFEBFBFF000806D1_5811223D054E",
-      "products": [
-        {
-          "id": "fix150",
-          "purchased_at": "2025-09-20T13:05:12.4945704Z",
-          "status": "active",
-          "expires_at": null,
-          "price": "150"
-        },
-        {
-          "id": "reg200",
-          "purchased_at": "2025-09-20T15:50:23.1687139Z",
-          "status": "active",
-          "expires_at": null,
-          "price": "200"
-        },
-        {
-          "id": "reg150",
-          "purchased_at": "2025-09-20T17:29:26.9595441Z",
-          "status": "active",
-          "expires_at": null,
-          "price": "150"
-        },
-        {
-          "id": "reg120",
-          "purchased_at": "2025-09-20T17:33:17.9549300Z",
-          "status": "active",
-          "expires_at": null,
-          "price": "120"
-        }
-      ]
+      "ngay": "2025-10-20 18:49:41",
+      "devices_id": "",
+      "products": []
     },
     {
       "pass": "Epicpc",
