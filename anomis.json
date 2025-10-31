@@ -40,16 +40,6 @@
       "created_at": "2025-10-28T10:23:40.4586335Z",
       "expires_at": null,
       "note": ""
-    },
-    {
-      "key": "huy",
-      "gia": "anomis",
-      "ngay": "2025-10-30 11:49:27",
-      "devices_id": "BFEBFBFF000306C3_18CF5E6D13CD",
-      "type": "lifetime",
-      "created_at": "2025-10-30T11:49:27.3827364Z",
-      "expires_at": null,
-      "note": ""
     }
   ]
 }
