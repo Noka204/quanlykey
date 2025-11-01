@@ -40,6 +40,16 @@
       "created_at": "2025-10-28T10:23:40.4586335Z",
       "expires_at": null,
       "note": ""
+    },
+    {
+      "key": "epic",
+      "gia": "anomis",
+      "ngay": "2025-11-01 09:31:38",
+      "devices_id": "",
+      "type": "lifetime",
+      "created_at": "2025-11-01T09:31:38.1374871Z",
+      "expires_at": null,
+      "note": ""
     }
   ]
 }
