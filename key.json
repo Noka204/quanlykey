@@ -713,12 +713,6 @@
           "price": "120"
         }
       ]
-    },
-    {
-      "pass": "tanh",
-      "ngay": "2025-11-02 19:01:55",
-      "devices_id": "BFEBFBFF000806D1_5811223D054E",
-      "products": []
     }
   ]
 }
