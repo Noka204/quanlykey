@@ -611,24 +611,9 @@
     },
     {
       "pass": "tanh",
-      "ngay": "2025-10-04 20:24:55",
-      "devices_id": "178BFBFF00860F01_A85E45D4386B",
-      "products": [
-        {
-          "id": "reg150",
-          "purchased_at": "2025-10-04T13:25:23.6183552Z",
-          "status": "active",
-          "expires_at": null,
-          "price": "150"
-        },
-        {
-          "id": "reg200",
-          "purchased_at": "2025-10-08T13:18:57.2057266Z",
-          "status": "active",
-          "expires_at": null,
-          "price": "200"
-        }
-      ]
+      "ngay": "2025-11-02 18:53:44",
+      "devices_id": "",
+      "products": []
     },
     {
       "pass": "tcong",
