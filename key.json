@@ -613,7 +613,15 @@
       "pass": "tanh",
       "ngay": "2025-11-02 18:53:44",
       "devices_id": "178BFBFF00860F01_A85E45D4386B",
-      "products": []
+      "products": [
+        {
+          "id": "reg200",
+          "purchased_at": "2025-11-02T11:57:03.7451837Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "200"
+        }
+      ]
     },
     {
       "pass": "tcong",
