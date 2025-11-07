@@ -18,7 +18,15 @@
       "pass": "noka",
       "ngay": "2025-11-02 19:04:17",
       "devices_id": "BFEBFBFF000806D1_5811223D054E",
-      "products": [],
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2025-11-07T01:43:08.0117947Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "0"
+        }
+      ],
       "price": 0
     },
     {
