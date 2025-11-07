@@ -18,7 +18,8 @@
       "pass": "noka",
       "ngay": "2025-11-02 19:04:17",
       "devices_id": "BFEBFBFF000806D1_5811223D054E",
-      "products": []
+      "products": [],
+      "price": 0
     },
     {
       "pass": "Epicpc",
@@ -753,9 +754,6 @@
           "price": "200"
         }
       ]
-      }
+    }
   ]
 }
-
-
-
