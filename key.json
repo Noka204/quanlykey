@@ -15,28 +15,6 @@
       ]
     },
     {
-      "pass": "noka",
-      "ngay": "2025-11-02 19:04:17",
-      "devices_id": "BFEBFBFF000806D1_5811223D054E",
-      "products": [
-        {
-          "id": "fix150",
-          "purchased_at": "2025-11-07T01:43:08.0117947Z",
-          "status": "active",
-          "expires_at": null,
-          "price": "0"
-        },
-        {
-          "id": "noka_v1",
-          "purchased_at": "2025-11-07T01:45:26.9232186Z",
-          "status": "active",
-          "expires_at": null,
-          "price": "0"
-        }
-      ],
-      "price": 0
-    },
-    {
       "pass": "Epicpc",
       "ngay": "2025-08-05 17:49:26",
       "devices_id": "BFEBFBFF000406E3_708BCD099BD6",
