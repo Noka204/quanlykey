@@ -797,8 +797,17 @@
     {
       "pass": "tai",
       "ngay": "2025-11-15 17:05:10",
-      "devices_id": "",
-      "products": []
+      "devices_id": "BFEBFBFF000906EB_A40C6601FAEA",
+      "products": [
+        {
+          "id": "noka_v1",
+          "purchased_at": "2025-11-15T10:11:46.6630343Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "0"
+        }
+      ],
+      "price": 0
     }
   ]
 }
