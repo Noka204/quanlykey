@@ -699,8 +699,16 @@
           "status": "active",
           "expires_at": null,
           "price": "120"
+        },
+        {
+          "id": "noka_v1",
+          "purchased_at": "2025-11-18T15:54:09.1125023Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "0"
         }
-      ]
+      ],
+      "price": 0
     },
     {
       "pass": "hoang",
