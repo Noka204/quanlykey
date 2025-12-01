@@ -769,8 +769,15 @@
     {
       "pass": "Nhung",
       "ngay": "2025-11-07 19:03:47",
-      "devices_id": "",
+      "devices_id": "BFEBFBFF000A06A4_0250E79A1752",
       "products": [
+        {
+          "id": "noka_v1",
+          "purchased_at": "2025-12-01T13:43:28.3340421Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "0"
+        }
       ],
       "price": 0
     },
@@ -818,5 +825,4 @@
       ]
     }
   ]
-
 }
