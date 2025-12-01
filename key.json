@@ -775,7 +775,7 @@
     {
       "pass": "noka",
       "ngay": "2025-11-07 19:03:47",
-      "devices_id": "BFEBFBFF000806D1_5811223D054E",
+      "devices_id": "",
       "products": [
         {
           "id": "noka_v1",
@@ -830,4 +830,5 @@
       ]
     }
   ]
+
 }
