@@ -775,7 +775,7 @@
     {
       "pass": "noka",
       "ngay": "2025-11-07 19:03:47",
-      "devices_id": "",
+      "devices_id": "BFEBFBFF000806D1_00155DD31183",
       "products": [
         {
           "id": "noka_v1",
@@ -784,7 +784,8 @@
           "expires_at": null,
           "price": "0"
         }
-      ]
+      ],
+      "price": 0
     },
     {
       "pass": "tanh",
@@ -830,5 +831,4 @@
       ]
     }
   ]
-
 }
