@@ -828,7 +828,15 @@
       "pass": "qhao",
       "ngay": "2025-12-04 17:05:28",
       "devices_id": "BFEBFBFF000506E3_408D5CF92487",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2025-12-04T10:05:45.9979513Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     }
   ]
 }
