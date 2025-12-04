@@ -841,9 +841,17 @@
     {
       "pass": "nPhong",
       "ngay": "2025-08-06 13:11:13",
-      "devices_id": "",
+      "devices_id": "BFEBFBFF00090675_5C925E81E8F7",
       "products": [
-      ]
+        {
+          "id": "noka_v1",
+          "purchased_at": "2025-12-04T12:49:33.3386185Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "0"
+        }
+      ],
+      "price": 0
     }
   ]
 }
