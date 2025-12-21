@@ -866,6 +866,29 @@
           "price": "120"
         }
       ]
+    },
+    {
+      "pass": "BaoMinh",
+      "ngay": "2025-08-06 13:11:13",
+      "devices_id": "",
+      "products": [
+        {
+          "id": "noka_v1",
+          "purchased_at": "2025-12-04T12:49:33.3386185Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "0"
+        },
+        {
+          "id": "fix150",
+          "purchased_at": "2025-12-14T11:15:55.1194389Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ],
+      "price": 0
     }
   ]
+
 }
