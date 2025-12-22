@@ -190,6 +190,16 @@
       "created_at": "2025-10-31T02:33:09.0976305Z",
       "expires_at": null,
       "note": ""
+    },
+    {
+      "key": "kaypc",
+      "gia": "reg200",
+      "ngay": "2025-12-22 14:42:58",
+      "devices_id": "",
+      "type": "lifetime",
+      "created_at": "2025-12-22T14:42:58.8181870Z",
+      "expires_at": null,
+      "note": ""
     }
   ]
 }
