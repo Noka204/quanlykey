@@ -175,8 +175,8 @@
       "key": "sinngu",
       "gia": "reg200",
       "ngay": "2025-10-05 12:41:45",
-      "devices_id": "BFEBFBFF00090675_047C1682D128",
-      "type": "admin",
+      "devices_id": "",
+      "type": "lifetime",
       "created_at": "2025-10-05T12:41:45.4846909Z",
       "expires_at": null,
       "note": ""
@@ -204,3 +204,4 @@
   ]
 
 }
+
