@@ -893,7 +893,15 @@
       "pass": "HieuHa",
       "ngay": "2025-12-24 14:23:44",
       "devices_id": "178BFBFF00810F10_802BF9A1E5C1",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2025-12-24T07:24:15.0931533Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     }
   ]
 }
