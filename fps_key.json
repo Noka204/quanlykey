@@ -176,7 +176,7 @@
       "gia": "reg200",
       "ngay": "2025-10-05 12:41:45",
       "devices_id": "BFEBFBFF000B06F2_A0AD9F87EEC7",
-      "type": "lifetime",
+      "type": "admin",
       "created_at": "2025-10-05T12:41:45.4846909Z",
       "expires_at": null,
       "note": ""
@@ -212,4 +212,5 @@
       "note": ""
     }
   ]
+
 }
