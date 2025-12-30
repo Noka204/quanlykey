@@ -210,7 +210,16 @@
       "created_at": "2025-12-22T14:42:58.8181870Z",
       "expires_at": null,
       "note": ""
+    },
+    {
+      "key": "julian",
+      "gia": "reg200",
+      "ngay": "2025-12-30 12:58:36",
+      "devices_id": "",
+      "type": "lifetime",
+      "created_at": "2025-12-30T12:58:36.6681253Z",
+      "expires_at": null,
+      "note": ""
     }
   ]
-
 }
