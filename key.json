@@ -958,8 +958,16 @@
           "status": "active",
           "expires_at": null,
           "price": "120"
+        },
+        {
+          "id": "noka_v1",
+          "purchased_at": "2025-12-31T15:51:12.8100097Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "0"
         }
-      ]
+      ],
+      "price": 0
     }
   ]
 }
