@@ -988,7 +988,15 @@
       "pass": "tuantu",
       "ngay": "2026-01-05 10:52:03",
       "devices_id": "BFEBFBFF000306C3_0250549F5989",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2026-01-05T03:52:29.7147713Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     }
   ]
 }
