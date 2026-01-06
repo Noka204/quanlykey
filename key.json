@@ -1009,8 +1009,17 @@
     {
       "pass": "Epic",
       "ngay": "2026-01-05 21:33:10",
-      "devices_id": "",
-      "products": []
+      "devices_id": "BFEBFBFF000806C1_9843FA08D824",
+      "products": [
+        {
+          "id": "noka_v1",
+          "purchased_at": "2026-01-06T15:33:02.8507494Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "0"
+        }
+      ],
+      "price": 0
     },
     {
       "pass": "suvvbin",
