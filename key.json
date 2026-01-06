@@ -1016,7 +1016,15 @@
       "pass": "suvvbin",
       "ngay": "2026-01-06 21:48:41",
       "devices_id": "BFEBFBFF000806EA_505BC2029E70",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2026-01-06T14:49:56.5623451Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     }
   ]
 }
