@@ -290,16 +290,6 @@
       "created_at": "2026-01-08T05:21:03.5046429Z",
       "expires_at": null,
       "note": ""
-    },
-    {
-      "key": "Minhchimteo11",
-      "gia": "reg200",
-      "ngay": "2026-01-08 14:14:58",
-      "devices_id": "",
-      "type": "lifetime",
-      "created_at": "2026-01-08T14:14:58.6552237Z",
-      "expires_at": null,
-      "note": ""
     }
   ]
 }
