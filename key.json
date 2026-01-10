@@ -1039,7 +1039,15 @@
       "pass": "hhh",
       "ngay": "2026-01-10 20:09:53",
       "devices_id": "BFEBFBFF000306D4_681401BF7169",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2026-01-10T13:10:16.9277284Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     }
   ]
 }
