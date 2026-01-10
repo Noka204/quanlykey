@@ -1053,7 +1053,15 @@
       "pass": "cutoi",
       "ngay": "2026-01-10 23:35:12",
       "devices_id": "BFEBFBFF000806C1_0045E2B44921",
-      "products": []
+      "products": [
+        {
+          "id": "reg200",
+          "purchased_at": "2026-01-10T16:36:18.8504700Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "200"
+        }
+      ]
     }
   ]
 }
