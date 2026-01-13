@@ -1081,7 +1081,15 @@
       "pass": "phongcte123",
       "ngay": "2026-01-13 22:05:31",
       "devices_id": "BFEBFBFF00090675_5C925E81E8F7",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2026-01-13T15:06:15.7134202Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     }
   ]
 }
