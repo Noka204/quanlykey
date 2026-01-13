@@ -1067,7 +1067,15 @@
       "pass": "nKien",
       "ngay": "2026-01-13 13:35:21",
       "devices_id": "BFEBFBFF000B06A2_74D4DD231BC8",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2026-01-13T06:35:51.2868916Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     }
   ]
 }
