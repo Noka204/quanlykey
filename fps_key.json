@@ -368,6 +368,12 @@
           "pc_name": "DESKTOP-C7DHHQE",
           "user_profile": "Cuonz",
           "bind_time": "2026-01-14T17:12:44Z"
+        },
+        {
+          "device_id": "CED9E8672A08EC4218FBD3013A147B64",
+          "pc_name": "ADMIN-PC",
+          "user_profile": "Admin",
+          "bind_time": "2026-01-14T17:35:16Z"
         }
       ]
     }
