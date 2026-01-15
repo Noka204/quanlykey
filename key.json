@@ -1060,8 +1060,16 @@
           "status": "active",
           "expires_at": null,
           "price": "200"
+        },
+        {
+          "id": "noka_v1",
+          "purchased_at": "2026-01-15T17:19:16.5928635Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "0"
         }
-      ]
+      ],
+      "price": 0
     },
     {
       "pass": "nKien",
