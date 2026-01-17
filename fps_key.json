@@ -409,8 +409,15 @@
       "type": "admin",
       "created_at": "2026-01-17T11:28:21.6606128Z",
       "expires_at": null,
-      "note": ""
+      "note": "",
+      "devices": [
+        {
+          "device_id": "2F6ABEC65455DD1A04CC592257205E68",
+          "pc_name": "KERNELOS-PC",
+          "user_profile": "Administrator",
+          "bind_time": "2026-01-17T21:45:16Z"
+        }
+      ]
     }
   ]
-
 }
