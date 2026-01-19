@@ -1111,7 +1111,15 @@
       "pass": "qanh",
       "ngay": "2026-01-19 19:18:54",
       "devices_id": "BFEBFBFF000B06F2_30560F1E910D",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2026-01-19T12:19:21.8300160Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     }
   ]
 }
