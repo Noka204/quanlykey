@@ -396,6 +396,12 @@
           "pc_name": "ADMIN-PC",
           "user_profile": "Admin",
           "bind_time": "2026-01-16T17:46:56Z"
+        },
+        {
+          "device_id": "8A827E6FD45EB9954B3252F54CD7EF0B",
+          "pc_name": "WIN-5RIQ2BS49U3",
+          "user_profile": "Administrator",
+          "bind_time": "2026-01-20T13:50:30Z"
         }
       ]
     },
