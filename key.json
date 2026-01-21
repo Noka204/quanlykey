@@ -1132,7 +1132,15 @@
       "pass": "phuc",
       "ngay": "2026-01-21 17:55:06",
       "devices_id": "178BFBFF00860F81_706871EFBFA4",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2026-01-21T10:55:22.9301265Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     }
   ]
 }
