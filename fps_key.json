@@ -408,6 +408,12 @@
           "pc_name": "DESKTOP-TMF7JUS",
           "user_profile": "WORKSTATION",
           "bind_time": "2026-01-20T18:06:36Z"
+        },
+        {
+          "device_id": "92D70060EB503AC742752FC3A6A1F78E",
+          "pc_name": "MAY32",
+          "user_profile": "Administrator",
+          "bind_time": "2026-01-24T23:08:20Z"
         }
       ]
     },
