@@ -20,8 +20,7 @@
       "created_at": "2025-09-24T11:59:43.1842328Z",
       "expires_at": null,
       "note": ""
-    }
-    ,
+    },
     {
       "key": "phongcte123",
       "gia": "anomis",
@@ -36,15 +35,11 @@
       "key": "tuantu",
       "gia": "anomis",
       "ngay": "2025-09-24 11:59:43",
-      "devices_id": "",
+      "devices_id": "D4355639BA2EF31DE7978D65BED76ED9",
       "type": "lifetime",
       "created_at": "2025-09-24T11:59:43.1842328Z",
       "expires_at": null,
       "note": ""
     }
   ]
-
 }
-
-
-
