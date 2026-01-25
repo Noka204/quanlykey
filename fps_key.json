@@ -442,6 +442,12 @@
           "pc_name": "KERNELOS-PC",
           "user_profile": "Administrator",
           "bind_time": "2026-01-17T21:45:16Z"
+        },
+        {
+          "device_id": "BCF14FFE71BFA1955C003DF8E45682A7",
+          "pc_name": "LAPTOP-O4HBO9V2",
+          "user_profile": "Quang Phuc",
+          "bind_time": "2026-01-25T16:07:34Z"
         }
       ]
     },
