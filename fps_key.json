@@ -410,6 +410,12 @@
           "pc_name": "MAY32",
           "user_profile": "Administrator",
           "bind_time": "2026-01-24T23:08:20Z"
+        },
+        {
+          "device_id": "0E93A218460F7EF9AB7AA268A3166716",
+          "pc_name": "DESKTOP-PLARKES",
+          "user_profile": "Manh Khai",
+          "bind_time": "2026-01-26T12:46:29Z"
         }
       ]
     },
