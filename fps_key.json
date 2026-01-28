@@ -225,8 +225,8 @@
       "key": "huy",
       "gia": "reg200",
       "ngay": "2025-10-31 02:33:09",
-      "devices_id": "BFEBFBFF000306C3_18CF5E6D13CD",
-      "type": "lifetime",
+      "devices_id": "=",
+      "type": "admin",
       "created_at": "2025-10-31T02:33:09.0976305Z",
       "expires_at": null,
       "note": ""
@@ -504,3 +504,4 @@
   ]
 
 }
+
