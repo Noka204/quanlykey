@@ -438,6 +438,12 @@
           "pc_name": "DESKTOP-PLARKES",
           "user_profile": "Manh Khai",
           "bind_time": "2026-01-26T12:46:29Z"
+        },
+        {
+          "device_id": "1E4649DD190471CFE32D38E1ACAFDA8C",
+          "pc_name": "ADMIN-PC",
+          "user_profile": "Admin",
+          "bind_time": "2026-01-28T14:44:50Z"
         }
       ]
     },
