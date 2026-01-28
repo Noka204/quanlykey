@@ -229,7 +229,15 @@
       "type": "admin",
       "created_at": "2025-10-31T02:33:09.0976305Z",
       "expires_at": null,
-      "note": ""
+      "note": "",
+      "devices": [
+        {
+          "device_id": "636F607E5E1EF71DC27D2A21AAB3E650",
+          "pc_name": "DESKTOP-5O5RGPM",
+          "user_profile": "Gia Huy",
+          "bind_time": "2026-01-28T13:35:50Z"
+        }
+      ]
     },
     {
       "key": "kaypc",
@@ -502,6 +510,4 @@
       "note": ""
     }
   ]
-
 }
-
