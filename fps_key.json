@@ -444,6 +444,12 @@
           "pc_name": "ADMIN-PC",
           "user_profile": "Admin",
           "bind_time": "2026-01-28T14:44:50Z"
+        },
+        {
+          "device_id": "BB3552A4B814423A880E35DDA465BC08",
+          "pc_name": "LAPTOP-F9EE4G7Q",
+          "user_profile": "PC",
+          "bind_time": "2026-01-28T17:16:22Z"
         }
       ]
     },
