@@ -1146,7 +1146,15 @@
       "pass": "nHieu",
       "ngay": "2026-01-29 19:52:41",
       "devices_id": "BFEBFBFF000406E3_5CE0C520FD55",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2026-01-29T12:53:03.8056024Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     }
   ]
 }
