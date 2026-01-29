@@ -456,6 +456,12 @@
           "pc_name": "LAPTOP-F9EE4G7Q",
           "user_profile": "PC",
           "bind_time": "2026-01-28T17:16:22Z"
+        },
+        {
+          "device_id": "B6F2D7D0A7E901CCEEC5D9D578013F27",
+          "pc_name": "DESKTOP-NTR8862",
+          "user_profile": "turtle",
+          "bind_time": "2026-01-29T04:56:36Z"
         }
       ]
     },
