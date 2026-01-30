@@ -480,6 +480,12 @@
           "pc_name": "MAY22",
           "user_profile": "Administrator",
           "bind_time": "2026-01-29T07:10:36Z"
+        },
+        {
+          "device_id": "4065C8322F54EE5AB17B830AEFE9499C",
+          "pc_name": "MAY30",
+          "user_profile": "Administrator",
+          "bind_time": "2026-01-30T14:55:53Z"
         }
       ]
     },
