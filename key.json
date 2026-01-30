@@ -1158,7 +1158,15 @@
       "pass": "TTRUNG",
       "ngay": "2026-01-30 22:26:24",
       "devices_id": "BFEBFBFF000A0655_581122C1159A",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2026-01-30T15:26:42.4755268Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     }
   ]
 }
