@@ -248,6 +248,12 @@
           "pc_name": "ADMIN-PC",
           "user_profile": "Admin",
           "bind_time": "2026-01-28T13:40:40Z"
+        },
+        {
+          "device_id": "9EAE624ED31AAE06F6F1AE1EAD336309",
+          "pc_name": "DESKTOP-4CCMDG1",
+          "user_profile": "ANH VU",
+          "bind_time": "2026-01-31T13:28:16Z"
         }
       ]
     },
