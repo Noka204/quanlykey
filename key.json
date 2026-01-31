@@ -1152,7 +1152,15 @@
       "pass": "kienbd",
       "ngay": "2026-01-30 22:04:14",
       "devices_id": "BFEBFBFF000B06A2_025081DCDD12",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2026-01-31T05:30:52.1383151Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     },
     {
       "pass": "TTRUNG",
