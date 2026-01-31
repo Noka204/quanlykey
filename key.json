@@ -1166,7 +1166,15 @@
       "pass": "CC",
       "ngay": "2026-01-31 16:42:08",
       "devices_id": "BFEBFBFF000406E3_708BCD099BD6",
-      "products": []
+      "products": [
+        {
+          "id": "fix150",
+          "purchased_at": "2026-01-31T09:42:19.1413746Z",
+          "status": "active",
+          "expires_at": null,
+          "price": "120"
+        }
+      ]
     }
   ]
 }
