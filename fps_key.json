@@ -498,6 +498,12 @@
           "pc_name": "MAY31",
           "user_profile": "Administrator",
           "bind_time": "2026-01-30T17:42:24Z"
+        },
+        {
+          "device_id": "BCF628596EEAD3AC2F5E6C52B37F1AB4",
+          "pc_name": "PizzaXYZ-10510",
+          "user_profile": "Kun",
+          "bind_time": "2026-01-31T17:24:31Z"
         }
       ]
     },
