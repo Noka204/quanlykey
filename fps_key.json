@@ -533,7 +533,7 @@
       "key": "FX240",
       "gia": "reg200",
       "ngay": "2026-01-14 23:00:01",
-      "devices_id": "1DC1FACBFB073B426243018E67A5691F",
+      "devices_id": "",
       "type": "lifetime",
       "created_at": "2026-01-14T23:00:01.837029Z",
       "expires_at": null,
