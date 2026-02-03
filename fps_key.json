@@ -558,6 +558,12 @@
           "pc_name": "MAY-46",
           "user_profile": "Administrator",
           "bind_time": "2026-02-03T17:37:31Z"
+        },
+        {
+          "device_id": "05EE4E8C0875A42071E6CBB4D4FA2D25",
+          "pc_name": "DESKTOP-4S2LO1S",
+          "user_profile": "! x4get",
+          "bind_time": "2026-02-03T22:28:01Z"
         }
       ]
     },
