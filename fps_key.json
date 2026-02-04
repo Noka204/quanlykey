@@ -612,6 +612,12 @@
           "pc_name": "ADMIN-PC",
           "user_profile": "Admin",
           "bind_time": "2026-02-04T16:05:09Z"
+        },
+        {
+          "device_id": "BF5750A0889A31FF022936EA6D1A2C84",
+          "pc_name": "KERNELOS-PC",
+          "user_profile": "Administrator",
+          "bind_time": "2026-02-04T17:01:23Z"
         }
       ]
     },
