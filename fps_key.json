@@ -576,6 +576,12 @@
           "pc_name": "MAY06",
           "user_profile": "Administrator",
           "bind_time": "2026-02-04T03:22:28Z"
+        },
+        {
+          "device_id": "CEB40F1AE8F4A9503631A1824ACB3E5F",
+          "pc_name": "DESKTOP-LEAAE0M",
+          "user_profile": "DELL",
+          "bind_time": "2026-02-04T13:31:24Z"
         }
       ]
     },
