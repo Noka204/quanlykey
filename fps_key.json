@@ -606,6 +606,12 @@
           "pc_name": "DESKTOP-TN529OR",
           "user_profile": "minhq",
           "bind_time": "2026-02-04T15:59:40Z"
+        },
+        {
+          "device_id": "16F2113CF126D5982FB6AFCEA53C7583",
+          "pc_name": "ADMIN-PC",
+          "user_profile": "Admin",
+          "bind_time": "2026-02-04T16:05:09Z"
         }
       ]
     },
