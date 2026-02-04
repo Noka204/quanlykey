@@ -618,6 +618,12 @@
           "pc_name": "KERNELOS-PC",
           "user_profile": "Administrator",
           "bind_time": "2026-02-04T17:01:23Z"
+        },
+        {
+          "device_id": "C75E812E9709A33921BE59415C646D90",
+          "pc_name": "DESKTOP-KKHE8RQ",
+          "user_profile": "taocu",
+          "bind_time": "2026-02-04T17:32:40Z"
         }
       ]
     },
