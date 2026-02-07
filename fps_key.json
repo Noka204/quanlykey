@@ -666,6 +666,12 @@
           "pc_name": "MAY23",
           "user_profile": "Administrator",
           "bind_time": "2026-02-06T13:19:54Z"
+        },
+        {
+          "device_id": "9A9043EB44BA0625C91C6923DBF44CDD",
+          "pc_name": "DESKTOP-36E052I",
+          "user_profile": "les15",
+          "bind_time": "2026-02-07T01:48:02Z"
         }
       ]
     },
