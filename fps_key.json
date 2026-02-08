@@ -828,12 +828,12 @@
       "created_at": "2026-02-07T07:33:47.8895323Z",
       "expires_at": null,
       "note": ""
-    }, 
+    },
     {
       "key": "duongtran",
       "gia": "reg200",
       "ngay": "2026-02-07 07:33:47",
-      "devices_id": "",
+      "devices_id": "9298F5069574B14F9EF713FD5A461A50",
       "type": "lifetime",
       "created_at": "2026-02-07T07:33:47.8895323Z",
       "expires_at": null,
