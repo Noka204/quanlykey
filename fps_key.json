@@ -818,6 +818,12 @@
           "pc_name": "LAPTOP-ASTESSDL",
           "user_profile": "LE HUY",
           "bind_time": "2026-02-10T14:40:26Z"
+        },
+        {
+          "device_id": "5A615106A5EF7B02CE18E4E9D1AE3E18",
+          "pc_name": "PC-20",
+          "user_profile": "Administrator",
+          "bind_time": "2026-02-10T14:50:35Z"
         }
       ]
     },
