@@ -842,6 +842,12 @@
           "pc_name": "MAY-53",
           "user_profile": "Administrator",
           "bind_time": "2026-02-11T02:55:37Z"
+        },
+        {
+          "device_id": "F977E49ED1406E5EF6D8E45A961CD7BF",
+          "pc_name": "ADMIN-PC",
+          "user_profile": "Admin",
+          "bind_time": "2026-02-11T13:37:30Z"
         }
       ]
     },
