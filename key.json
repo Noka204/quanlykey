@@ -185,20 +185,6 @@
       ]
     },
     {
-      "pass": "1",
-      "ngay": "2025-08-13 21:41:12",
-      "devices_id": "BFEBFBFF000706E5_40234351E96F",
-      "products": [
-        {
-          "id": "fix150",
-          "purchased_at": "2025-08-13 21:41:12",
-          "status": "active",
-          "expires_at": null,
-          "price": "150"
-        }
-      ]
-    },
-    {
       "pass": "ad",
       "ngay": "2025-08-13 21:41:28",
       "devices_id": "178BFBFF00860F01_A85E45D4386B",
