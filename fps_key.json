@@ -878,6 +878,12 @@
           "pc_name": "PC-11",
           "user_profile": "Administrator",
           "bind_time": "2026-02-11T11:54:41Z"
+        },
+        {
+          "device_id": "90F56192E282D2485BCDD9D82522C035",
+          "pc_name": "PC-48",
+          "user_profile": "Administrator",
+          "bind_time": "2026-02-11T13:05:19Z"
         }
       ]
     },
