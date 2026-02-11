@@ -890,6 +890,12 @@
           "pc_name": "PC-49",
           "user_profile": "Administrator",
           "bind_time": "2026-02-11T13:25:13Z"
+        },
+        {
+          "device_id": "D5D5E88D3BF30339551176536A404571",
+          "pc_name": "DESKTOP-SGVMPHU",
+          "user_profile": "kiro",
+          "bind_time": "2026-02-11T19:24:57Z"
         }
       ]
     },
