@@ -902,6 +902,12 @@
           "pc_name": "MAY-59",
           "user_profile": "Administrator",
           "bind_time": "2026-02-12T01:49:10Z"
+        },
+        {
+          "device_id": "2768CA41661E6BBE830584CD0F5BB0B3",
+          "pc_name": "DESKTOP-SOHM8RO",
+          "user_profile": "tranp",
+          "bind_time": "2026-02-12T04:51:43Z"
         }
       ]
     },
