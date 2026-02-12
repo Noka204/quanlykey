@@ -926,6 +926,12 @@
           "pc_name": "PC-17",
           "user_profile": "Administrator",
           "bind_time": "2026-02-12T09:11:00Z"
+        },
+        {
+          "device_id": "FBAA3A0A3278D44FC49CF660EEECE4AE",
+          "pc_name": "DESKTOP-FKTS461",
+          "user_profile": "pc",
+          "bind_time": "2026-02-12T14:10:05Z"
         }
       ]
     },
