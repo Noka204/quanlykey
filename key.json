@@ -1178,24 +1178,9 @@
     },
     {
       "pass": "1",
-      "ngay": "2026-02-11 15:10:36",
-      "devices_id": "BFEBFBFF000406E3_708BCD099BD6",
-      "products": [
-        {
-          "id": "fix150",
-          "purchased_at": "2026-02-11T08:10:47.8028909Z",
-          "status": "active",
-          "expires_at": null,
-          "price": "120"
-        },
-        {
-          "id": "noka_v1",
-          "purchased_at": "2026-02-11T13:16:32.2987437Z",
-          "status": "active",
-          "expires_at": null,
-          "price": "0"
-        }
-      ],
+      "ngay": "2026-02-12 20:27:34",
+      "devices_id": "",
+      "products": [],
       "price": 0
     }
   ]
