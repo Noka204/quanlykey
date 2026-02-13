@@ -974,6 +974,12 @@
           "pc_name": "THIDAU04",
           "user_profile": "Administrator",
           "bind_time": "2026-02-13T11:44:33Z"
+        },
+        {
+          "device_id": "F3C02ABF1CD3397708EAF605388A9D7D",
+          "pc_name": "DESKTOP-JQ1E5OM",
+          "user_profile": "khaid",
+          "bind_time": "2026-02-13T12:15:49Z"
         }
       ]
     },
