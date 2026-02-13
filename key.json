@@ -1175,28 +1175,6 @@
           "price": "120"
         }
       ]
-    },
-    {
-      "pass": "1",
-      "ngay": "2026-02-13 18:27:04",
-      "devices_id": "BFEBFBFF000406E3_708BCD099BD6",
-      "products": [
-        {
-          "id": "fix150",
-          "purchased_at": "2026-02-13T11:27:19.1250047Z",
-          "status": "active",
-          "expires_at": null,
-          "price": "120"
-        },
-        {
-          "id": "reg150",
-          "purchased_at": "2026-02-13T11:28:55.3622268Z",
-          "status": "active",
-          "expires_at": null,
-          "price": "150"
-        }
-      ],
-      "price": 0
-    }
+    } 
   ]
 }
