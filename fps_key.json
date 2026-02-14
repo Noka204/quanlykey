@@ -1040,6 +1040,12 @@
           "pc_name": "MAY02",
           "user_profile": "Administrator",
           "bind_time": "2026-02-14T11:55:13Z"
+        },
+        {
+          "device_id": "962CF43CD6819A077E34F0758CA9006F",
+          "pc_name": "PC-19",
+          "user_profile": "Administrator",
+          "bind_time": "2026-02-14T13:27:52Z"
         }
       ]
     },
