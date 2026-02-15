@@ -1076,6 +1076,12 @@
           "pc_name": "LAPTOP-ELD4HNKT",
           "user_profile": "Nhat Truong",
           "bind_time": "2026-02-15T07:15:09Z"
+        },
+        {
+          "device_id": "AAED790D334B8E94EA82E51B7B3C5F34",
+          "pc_name": "MAY-13",
+          "user_profile": "Administrator",
+          "bind_time": "2026-02-15T07:18:47Z"
         }
       ]
     },
