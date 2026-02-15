@@ -1070,6 +1070,12 @@
           "pc_name": "MAY011",
           "user_profile": "CYBER",
           "bind_time": "2026-02-15T06:40:30Z"
+        },
+        {
+          "device_id": "53332796D32BE1990351C80ECAD44989",
+          "pc_name": "LAPTOP-ELD4HNKT",
+          "user_profile": "Nhat Truong",
+          "bind_time": "2026-02-15T07:15:09Z"
         }
       ]
     },
