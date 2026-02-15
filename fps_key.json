@@ -1088,6 +1088,12 @@
           "pc_name": "MAY-56",
           "user_profile": "Administrator",
           "bind_time": "2026-02-15T11:05:46Z"
+        },
+        {
+          "device_id": "DC059C52973474179AAE1DB0D1E5D927",
+          "pc_name": "PC-04",
+          "user_profile": "Administrator",
+          "bind_time": "2026-02-15T11:56:47Z"
         }
       ]
     },
